@@ -1,9 +1,14 @@
 **Name:** SHAIK RIZWANA KHATUN
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DHQ
+
 **Domain:** Artificial Intelligence
+
 **Duration:** December to January 2024
-**Mentor:**
+
+**Mentor:** Neela Santhosh Kumar
 
 ## Overview of the project
 
